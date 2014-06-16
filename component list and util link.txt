@@ -1,0 +1,8 @@
+3 resistor 1,5kohm
+3 transistors BC 337-40
+1 HC-05 bluetooth module
+2 Arduino MINI rev5
+1 capacitor 100uFù
+1 serial adapter for Arduino Mini
+
+for more information and schemes visit http://colpodiclic.it/?page_id=169
